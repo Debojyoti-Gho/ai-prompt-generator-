@@ -1,5 +1,8 @@
 transformers
 matplotlib
 streamlit
-pip install torch torchvision torchaudio 
+torch>=2.0.0
+torchvision
+torchaudio
+
 
