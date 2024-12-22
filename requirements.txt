@@ -1,4 +1,4 @@
 transformers
 matplotlib
 streamlit
-pytorch
+torch
