@@ -1,7 +1,3 @@
-setuptools==75.6.0
-transformers==4.35.0
-matplotlib==3.7.1
-numpy==1.24.4
-streamlit==1.26.0
-wheel==0.45.1 
-distutils
+transformers
+matplotlib
+streamlit
