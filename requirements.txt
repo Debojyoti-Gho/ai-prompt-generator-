@@ -4,5 +4,7 @@ streamlit
 torch>=2.0.0
 torchvision
 torchaudio
+pandas
+time
 
 
